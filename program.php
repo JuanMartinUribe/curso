@@ -1,8 +1,5 @@
 <?php 
 
-$first_name = "juan";
-
-
 $conn = mysqli_connect("localhost","root","","practica");
 
 $nameTable = "CREATE TABLE IF NOT EXISTS person (
